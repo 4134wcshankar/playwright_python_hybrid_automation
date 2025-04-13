@@ -9,7 +9,7 @@ playwright hybrid automation
 
 
 
-To Eexceute Tests on Mac:
+To Eexceute Tests On Mac:
 - Move to Project directory
   - (venv_hybrid_playwright) bash-3.2$ cd  /Users/{YourUserName}/python_test_env/playwright_python_hybrid_pom
 - To Run Tests Generate Allure reports on Mac
