@@ -17,5 +17,5 @@ To Eexceute Tests on Mac:
     - (venv_hybrid_playwright) bash-3.2$ brew install allure
     - (venv_hybrid_playwright) bash-3.2$ pip install allure-python-commons
   - Generate reports:
-    - (venv_hybrid_playwright) bash-3.2$ pytest ./test_cases/car_model_test.py  --alluredir=allure-results
-    - (venv_hybrid_playwright) bash-3.2$ allure serve allure-results  
+    - (venv_hybrid_playwright) bash-3.2$ pytest ./test_cases/car_model_test.py  --alluredir=allure_results
+    - (venv_hybrid_playwright) bash-3.2$ allure generate reports/allure_results -o allure_reports/allure_report --clean
