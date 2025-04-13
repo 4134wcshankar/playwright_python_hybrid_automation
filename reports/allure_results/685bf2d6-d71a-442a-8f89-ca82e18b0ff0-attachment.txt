@@ -1,0 +1,7 @@
+Car brand is MG
+Car Title is MG Cars
+Car prices length is <Locator frame=<Frame name= url='https://www.carwale.com/mg-cars/'> selector='//div/div/div[3]/div/span/span[1]'>
+MG M9 EV----prices are--Rs. 11.30 Lakh
+MG Windsor EV----prices are--Rs. 39.56 Lakh
+MG Comet EV----prices are--Rs. 16.48 Lakh
+MG Hector----prices are--Rs. 17.50 Lakh
