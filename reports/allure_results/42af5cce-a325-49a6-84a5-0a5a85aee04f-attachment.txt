@@ -1,0 +1,14 @@
+Car brand is Toyota
+Car Title is Toyota Cars
+Car prices length is <Locator frame=<Frame name= url='https://www.carwale.com/toyota-cars/'> selector='//div/div/div[3]/div/span/span[1]'>
+Toyota Fortuner----prices are--Rs. 33.78 Lakh
+Toyota Innova Crysta----prices are--Rs. 19.99 Lakh
+Toyota Urban Cruiser Taisor----prices are--Rs. 7.74 Lakh
+Toyota Glanza----prices are--Rs. 6.90 Lakh
+Toyota Innova Hycross----prices are--Rs. 19.94 Lakh
+Toyota Hilux----prices are--Rs. 30.40 Lakh
+Toyota Camry----prices are--Rs. 48.00 Lakh
+Toyota Rumion----prices are--Rs. 10.54 Lakh
+Toyota Fortuner Legender----prices are--Rs. 44.11 Lakh
+Toyota Land Cruiser----prices are--Rs. 2.31 Crore
+Toyota Vellfire----prices are--Rs. 1.22 Crore

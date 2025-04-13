@@ -1,0 +1,19 @@
+Car brand is BMW
+Car Title is BMW Cars
+Car prices length is <Locator frame=<Frame name= url='https://www.carwale.com/bmw-cars/'> selector='//div/div/div[3]/div/span/span[1]'>
+BMW 3 Series LWB----prices are--Rs. 62.00 Lakh
+BMW X5----prices are--Rs. 97.80 Lakh
+BMW X3----prices are--Rs. 75.80 Lakh
+BMW X1----prices are--Rs. 50.80 Lakh
+BMW M5----prices are--Rs. 1.99 Crore
+BMW X7----prices are--Rs. 1.31 Crore
+BMW 2 Series Gran Coupe----prices are--Rs. 44.40 Lakh
+BMW M340i----prices are--Rs. 74.90 Lakh
+BMW M4----prices are--Rs. 1.56 Crore
+BMW 7 Series----prices are--Rs. 1.84 Crore
+BMW iX1 LWB----prices are--Rs. 92.90 Lakh
+BMW Z4----prices are--Rs. 2.60 Crore
+BMW XM----prices are--Rs. 1.03 Crore
+BMW M2----prices are--Rs. 2.44 Crore
+BMW M8----prices are--Rs. 96.20 Lakh
+BMW iX1----prices are--Rs. 1.20 Crore
