@@ -28,3 +28,6 @@ To Run Tests, Generate reports and view html reports:s
     - (venv_hybrid_playwright) bash-3.2$ pytest ./test_cases/car_model_test.py --alluredir=./reports/allure_results
 - View Reports:
     - (venv_hybrid_playwright) bash-3.2$ allure serve ./reports/allure_results
+ 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d55c6322-9f72-4ca6-b0b1-5860fc4902a3" />
+
